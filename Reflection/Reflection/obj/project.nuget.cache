@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "owqlHgIHIcUVxdGwK4zFeSayr6jQJXW7DbeFCMRTL4Sw9IRtMiiXWN5VRDCaOiLBfg8o4Oa+9LURs7mEYk/thA==",
+  "dgSpecHash": "2tQNbKqjIIhpKom3X1vi9NaD8U2y/0EbZqPxYpS2wFCpEHxeuhxwNq7ZixNED/7+PHTcqeceMDISJ/d/bbdSrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakub\\Source\\Repos\\Reflection\\Reflection\\Reflection.csproj",
+  "projectFilePath": "C:\\Users\\jakub\\source\\repos\\c-sharp-2\\Reflection\\Reflection\\Reflection.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

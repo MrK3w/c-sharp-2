@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\Source\\Repos\\Reflection\\Reflection\\Reflection.csproj": {}
+    "C:\\Users\\jakub\\source\\repos\\c-sharp-2\\Reflection\\Reflection\\Reflection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\Source\\Repos\\Reflection\\Reflection\\Reflection.csproj": {
+    "C:\\Users\\jakub\\source\\repos\\c-sharp-2\\Reflection\\Reflection\\Reflection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Source\\Repos\\Reflection\\Reflection\\Reflection.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\source\\repos\\c-sharp-2\\Reflection\\Reflection\\Reflection.csproj",
         "projectName": "Reflection",
-        "projectPath": "C:\\Users\\jakub\\Source\\Repos\\Reflection\\Reflection\\Reflection.csproj",
+        "projectPath": "C:\\Users\\jakub\\source\\repos\\c-sharp-2\\Reflection\\Reflection\\Reflection.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Source\\Repos\\Reflection\\Reflection\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\source\\repos\\c-sharp-2\\Reflection\\Reflection\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

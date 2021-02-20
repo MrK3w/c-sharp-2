@@ -6,3 +6,12 @@ C:\Users\jakub\Source\Repos\Reflection\Library\obj\Debug\netcoreapp3.1\Library.A
 C:\Users\jakub\Source\Repos\Reflection\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
 C:\Users\jakub\Source\Repos\Reflection\Library\obj\Debug\netcoreapp3.1\Library.dll
 C:\Users\jakub\Source\Repos\Reflection\Library\obj\Debug\netcoreapp3.1\Library.pdb
+C:\Users\jakub\source\repos\c-sharp-2\Reflection\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\jakub\source\repos\c-sharp-2\Reflection\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\jakub\source\repos\c-sharp-2\Reflection\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\jakub\source\repos\c-sharp-2\Reflection\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\jakub\source\repos\c-sharp-2\Reflection\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\c-sharp-2\Reflection\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\jakub\source\repos\c-sharp-2\Reflection\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\c-sharp-2\Reflection\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\jakub\source\repos\c-sharp-2\Reflection\Library\obj\Debug\netcoreapp3.1\Library.pdb

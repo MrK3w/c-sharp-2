@@ -18,6 +18,7 @@ namespace Reflection
             var firstUrl = "/Customer/List?limit=20";
             var url = @"/Customer/Add?Name=Pepa&Age=30&IsActive=true";
             Execute(url);
+            Execute(firstUrl);
         }
 
         private static void Execute(string url)
@@ -149,9 +150,6 @@ namespace Reflection
 
 
             Console.WriteLine(methodObject);
-            MethodInfo method1 = controllerType.GetMethod("List");
-            var methodObject1 = (string)method1?.Invoke(controllerInstance, new object?[]{4});
-            Console.WriteLine(methodObject1);
         }
     }
 }

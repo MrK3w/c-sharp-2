@@ -9,7 +9,7 @@ namespace Library.Controllers
 {
     class CustomerController
     {
-        private readonly List<Customer> _customers = new List<Customer>
+        private static List<Customer> _customers = new List<Customer>
         {
             new Customer()
             {
