@@ -19,6 +19,11 @@ namespace Synchronization
                 while (true)
                 {
                     stack.Push(rnd.Next());
+                    lock (lockObject)
+                    {
+                        Monitor.Pulse(lockObject);
+                    }
+
                     Thread.Sleep(100);
                 }
             });
@@ -33,18 +38,14 @@ namespace Synchronization
                         int val;
                         lock (lockObject)
                         {
-                            if (stack.IsEmpty)
+                            while (stack.IsEmpty)
                             {
                                 Console.WriteLine($"Empty: {Thread.CurrentThread.ManagedThreadId}");
-                                continue;
+                                Monitor.Wait(lockObject);
                             }
-                        }
 
-                        lock (lockObject)
-                        {
                             val = stack.Pop();
                         }
-
                         Console.WriteLine($"Value: {val} | Thread: {Thread.CurrentThread.ManagedThreadId}");
                         
 

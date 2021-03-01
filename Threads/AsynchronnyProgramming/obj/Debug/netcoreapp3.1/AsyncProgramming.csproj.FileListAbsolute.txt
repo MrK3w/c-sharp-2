@@ -1,0 +1,12 @@
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.exe
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.deps.json
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.runtimeconfig.json
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.runtimeconfig.dev.json
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.dll
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\bin\Debug\netcoreapp3.1\AsyncProgramming.pdb
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.AssemblyInfo.cs
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.dll
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.pdb
+C:\Users\jakub\source\repos\c-sharp-2\Threads\AsynchronnyProgramming\obj\Debug\netcoreapp3.1\AsyncProgramming.genruntimeconfig.cache
