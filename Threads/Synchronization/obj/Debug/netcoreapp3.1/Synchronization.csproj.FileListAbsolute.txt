@@ -1,0 +1,13 @@
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\bin\Debug\netcoreapp3.1\Synchronization.exe
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\bin\Debug\netcoreapp3.1\Synchronization.deps.json
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\bin\Debug\netcoreapp3.1\Synchronization.runtimeconfig.json
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\bin\Debug\netcoreapp3.1\Synchronization.runtimeconfig.dev.json
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\bin\Debug\netcoreapp3.1\Synchronization.dll
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\bin\Debug\netcoreapp3.1\Synchronization.pdb
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\obj\Debug\netcoreapp3.1\Synchronization.csprojAssemblyReference.cache
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\obj\Debug\netcoreapp3.1\Synchronization.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\obj\Debug\netcoreapp3.1\Synchronization.AssemblyInfo.cs
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\obj\Debug\netcoreapp3.1\Synchronization.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\obj\Debug\netcoreapp3.1\Synchronization.dll
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\obj\Debug\netcoreapp3.1\Synchronization.pdb
+C:\Users\jakub\source\repos\c-sharp-2\Threads\Synchronization\obj\Debug\netcoreapp3.1\Synchronization.genruntimeconfig.cache
