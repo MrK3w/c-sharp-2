@@ -30,20 +30,23 @@ namespace Synchronization
                 {
                     while (true)
                     {
+                        int val;
                         lock (lockObject)
                         {
                             if (stack.IsEmpty)
                             {
+                                Console.WriteLine($"Empty: {Thread.CurrentThread.ManagedThreadId}");
                                 continue;
                             }
                         }
 
                         lock (lockObject)
                         {
-                            int val = stack.Pop();
-                        
-                        Console.WriteLine($"Hodnota: {val} | Vlakno: {Thread.CurrentThread.ManagedThreadId}");
+                            val = stack.Pop();
                         }
+
+                        Console.WriteLine($"Value: {val} | Thread: {Thread.CurrentThread.ManagedThreadId}");
+                        
 
                         Thread.Sleep(rnd.Next(40,1001));
                     }
