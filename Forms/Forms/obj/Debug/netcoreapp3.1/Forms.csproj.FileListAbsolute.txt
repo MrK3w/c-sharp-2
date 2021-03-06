@@ -1,0 +1,16 @@
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\bin\Debug\netcoreapp3.1\Forms.exe
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\bin\Debug\netcoreapp3.1\Forms.deps.json
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\bin\Debug\netcoreapp3.1\Forms.runtimeconfig.json
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\bin\Debug\netcoreapp3.1\Forms.runtimeconfig.dev.json
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\bin\Debug\netcoreapp3.1\Forms.dll
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\bin\Debug\netcoreapp3.1\Forms.pdb
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\obj\Debug\netcoreapp3.1\Forms.csprojAssemblyReference.cache
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\obj\Debug\netcoreapp3.1\Forms.MainForm.resources
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\obj\Debug\netcoreapp3.1\Forms.csproj.GenerateResource.cache
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\obj\Debug\netcoreapp3.1\Forms.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\obj\Debug\netcoreapp3.1\Forms.AssemblyInfo.cs
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\obj\Debug\netcoreapp3.1\Forms.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\obj\Debug\netcoreapp3.1\Forms.dll
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\obj\Debug\netcoreapp3.1\Forms.pdb
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\obj\Debug\netcoreapp3.1\Forms.genruntimeconfig.cache
+C:\Users\jakub\source\repos\c-sharp-2\Forms\Forms\obj\Debug\netcoreapp3.1\Forms.EditForm.resources
